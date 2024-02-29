@@ -7,7 +7,7 @@ I am a Cloud and DevOps Fresher ☁️. Passionate about Cloud and the services 
 
 ---
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Azure**
 - 👨‍💻 All of my projects are available at [https://github.com/mohdumair8896?tab=repositories](https://github.com/mohdumair8896?tab=repositories)
 - 💬 Ask me about **Cloud and DevOps ☁️**
 - 📫 Reach out to me at **mohdumair8896@gmail.com**
